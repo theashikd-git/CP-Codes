@@ -32,6 +32,17 @@ It includes implementations and examples of commonly used data structures and al
 - Sorting with duplicates
 
 
+### 🔹 Stack
+- LIFO (Last In First Out) structure
+- push, pop, top, empty operations
+- Used in recursion, backtracking, and expression evaluation
+
+
+### 🔹 Queue
+- FIFO (First In First Out) structure
+- push, pop, front, back, empty operations
+- Used in scheduling, BFS, and task handling
+
 
 ## 🛠️ Language Used
 - C++
