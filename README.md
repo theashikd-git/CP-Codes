@@ -4,7 +4,6 @@ This repository contains my **Competitive Programming (CP)** practice codes usin
 
 It includes implementations and examples of commonly used data structures and algorithms.
 
----
 
 ## 📚 Topics Covered
 
@@ -44,12 +43,10 @@ It includes implementations and examples of commonly used data structures and al
 - push, pop, front, back, empty operations
 - Used in scheduling, BFS, and task handling
 
----
 
 ## 🛠️ Language Used
 - C++
 
----
 
 ## 🎯 Purpose
 
@@ -57,7 +54,6 @@ It includes implementations and examples of commonly used data structures and al
 - Understand STL data structures deeply
 - Practice frequently used operations in contests
 
----
 
 ## 📌 How to Use
 
